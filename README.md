@@ -1,0 +1,2 @@
+# Traffic-Surveillance
+Detection of moving vehicles was performed using optical flow in the initial phase of the project. Then the vehicles were classified into heavy (Bus, Car) and light (Bike) categories according to their area versus bounding box ratio. Further classification of vehicle based on their make and model (like Swift, Alto etc.) was also done using machine learning, a 'Bag of words' model was trained for the same.
